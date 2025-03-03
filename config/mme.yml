@@ -1,0 +1,31 @@
+
+# Domain Adaptation strategy
+da_strat: 'mme' 
+mme_lambda: 0.1
+wd: 1e-5
+early_stop_num: 10 
+uda_lr: 0.0002   
+uda_num_epochs: 20 
+adapt_lr_firstround: 1e-4
+adapt_lr: 1e-4  
+adapt_num_epochs: 50
+src_sup_wt: 0.1
+unsup_wt: 1.0
+cent_wt: 0.1
+
+
+# Model initialization
+model_init: 'source'
+
+# training
+runs: 1
+batch_size: 32
+use_cuda: True
+
+# AL budget
+total_budget: 2000
+budget_spilt: 0.5
+
+# AL Cycles
+num_rounds: 10
+
