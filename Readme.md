@@ -15,7 +15,7 @@ $$
 
 
 
-![ASCENT](D:\wxt\mcan+ADA\ASCENT-main\ASCENT.png)
+![ASCENT](ASCENT.png)
 
 # System Requirements
 
