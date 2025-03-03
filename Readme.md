@@ -1,9 +1,6 @@
 
-\title{\Large{\textbf{Official Implementation of Paper:}} \\
-\vspace{0.5cm}
-\huge{``An active transfer learning paradigm for drug-target interaction prediction with ASCENT''}}
 
-
+# Official Implementation of Paper: "An active transfer learning paradigm for drug-target interaction prediction with ASCENT"
 
 ![ASCENT](ASCENT.png)
 
