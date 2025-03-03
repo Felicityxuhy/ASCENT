@@ -22,6 +22,12 @@ networkx               2.6.3
 omegaconf              2.3.0
 ```
 
+## Data Download
+The `data` folder required for this project is too large to host on GitHub. You can download it from Figshare using the following link:
+
+[Download Data from Figshare](https://doi.org/10.6084/m9.figshare.28525688.v1)
+
+After downloading, extract the contents of the archive into the `data` folder in the root directory of this repository.
 
 
 ## Installation Guide
