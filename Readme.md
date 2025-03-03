@@ -1,10 +1,11 @@
 
 
-# Official Implementation of Paper: "An active transfer learning paradigm for drug-target interaction prediction with ASCENT"
+# Official Implementation of ASCENT
+This repository contains the official implementation of the paper **"An active transfer learning paradigm for drug-target interaction prediction with ASCENT"**. 
 
 ![ASCENT](ASCENT.png)
 
-# System Requirements
+## System Requirements
 
 ```
 fair-esm               2.0.0
@@ -49,7 +50,7 @@ $ pip install torch_sparse-0.6.17+pt113cu116-cp37-cp37m-win_amd64.whl
 $ pip install torch_geometric
 ```
 
-# Data Preparation
+## Data Preparation
 
 ```
 # Extract the fasta file : Enter the dataset name in --DATASET 
@@ -66,7 +67,7 @@ $ python data/esm-main/scripts/extract.py esm2_t6_8M_UR50D data/fasta_data/biosn
 
 
 
-# RUN
+## RUN
 
 ```
 # Train only on in-domain data
