@@ -1,9 +1,9 @@
 
 
 # Official Implementation of ASCENT
-This repository contains the official implementation of the paper **"An active transfer learning paradigm for drug-target interaction prediction with ASCENT"**. 
+This repository contains the official implementation of the paper **"Leveraging active transfer learning with ASCENT for drug-target interaction prediction"**. 
 
-![ASCENT](ASCENT.png)
+![ASCENT](Figure 1.png)
 
 ## System Requirements
 
